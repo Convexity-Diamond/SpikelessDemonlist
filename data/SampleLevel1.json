@@ -1,12 +1,18 @@
 {
-    "id": 150038213,
-    "name": "Spikeless Bloodbath",
-    "author": "xPlasmaDiamondx",
-    "creators": ["Riot", "weoweoteo", "Vermillion", "Michigun", "Evasium", "Crack", "ASonicMen", "Etzer", "Havok", "Giron", "Ggb0y"],
-    "verifier": "xPlasmaDiamondx",
-    "verification": "https://www.youtube.com/watch?v=iik25wqIuFo",
-    "percentToQualify": 70,
-    "password": "Free Copy",
+    "id": 57436521,
+    "name": "SampleLevel1",
+    "author": "LevelUploader",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "Verifier",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
     "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
